@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+name: site da organização Mulheres em IA 
+url: "https://mulheres-em-ia.github.io"
+markdown: kramdown
+theme: StartBootstrap/startbootstrap-clean-blog-jekyll
