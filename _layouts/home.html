@@ -11,11 +11,14 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>{{ site.title }}</h1>
+          <div class="mia-home-heading">
+          	<div>
+          		<img class="mia-home-logo" src="/img/Logo_MIA_Branco.png" />
+          	</div>
             {% if site.description %}
             <span class="subheading">{{ site.description }}</span>
             {% endif %}
+
           </div>
         </div>
       </div>
@@ -40,14 +43,14 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
+          <p class="post-meta">Postado por
             {% if post.author %}
             {{ post.author }}
             {% else %}
             {{ site.author }}
             {% endif %}
-            on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+            em
+            {{ post.date | date: '%d/%m/%Y' }} &middot; {% include read_time.html content=post.content %}            
           </p>
         </article>
 
@@ -57,7 +60,7 @@ layout: default
 
         <!-- Pager -->
         <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">Ver todas as postagens &rarr;</a>
         </div>
 
       </div>

@@ -2,8 +2,93 @@
 layout: page
 title: Quem somos
 background: '/img/pink_background.png'
+women: 
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
+ - name: Bárbara Barbosa
+   image: vivian.jpg
+   education: Sistemas de Informação
+   position: Líder de Ciência de Dados
 ---
 
-<p><b>Nossa Missão</b> é desenvolver e fomentar uma comunidade global que empodere mulheres através da troca de conhecimentos em IA, e trabalhos de mentoria. Propiciar um lugar seguro, cujos três pilares são: diversidade, equidade e inclusão. Através de nossos eventos e programas, promovemos as habilidades necessárias para conquistas profissionais e damos suporte a nova geração de mulheres em IA.</p>
 
-<p>Reunimos as embaixadoreas dos Women in Data Science (WiDS) RJ e SP para criar o MIA, cujo intuito é conseguir realizar mais eventos empoderando mulheres em IA através da troca de conhecimentos, dar suporte e espalhar conteúdos muito além da conferência anual do WiDS.</p>
+<div class="row">
+	<div class="col-lg-12 col-md-10 col-sm-10">
+		<p><b>Nossa Missão</b> é desenvolver e fomentar uma comunidade global que empodere mulheres através da troca de conhecimentos em IA, e trabalhos de mentoria. Propiciar um lugar seguro, cujos três pilares são: diversidade, equidade e inclusão. Através de nossos eventos e programas, promovemos as habilidades necessárias para conquistas profissionais e damos suporte a nova geração de mulheres em IA.</p>
+
+		<p>Reunimos as embaixadoreas dos Women in Data Science (WiDS) RJ e SP para criar o MIA, cujo intuito é conseguir realizar mais eventos empoderando mulheres em IA através da troca de conhecimentos, dar suporte e espalhar conteúdos muito além da conferência anual do WiDS.</p>
+	</div>
+</div>
+
+<div class="row">
+	{% for woman in page.women %}
+		<div class="mia-about-women col-lg-6 col-mid-10">
+			<img class="mia-about-women-image" src="/img/women/{{ woman.image }}" />
+			<div class="mia-about-women-info">
+				<p class="mia-about-women-name">{{ woman.name }}</p>
+				<p class="mia-about-women-description">{{ woman.education }}</p>
+				<p class="mia-about-women-description">{{ woman.position }}</p>
+			</div>
+		</div>
+		
+		
+    {% endfor %}
+</div>
