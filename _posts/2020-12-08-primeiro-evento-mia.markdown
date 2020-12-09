@@ -5,7 +5,6 @@ author: Mulheres em IA
 subtitle: "A primeira edição do MIA acontece nos dias 08 e 09 de dezembro de 2020 online no Youtube!"
 date: 2020-12-08 20:55:36 -0300
 categories: posts
-background: '/img/pink_background.png'
 ---
 
 Neste primeiro evento tivemos o apoio das empresas Alura, Microsoft, Tera, VTEX e XP. E contamos com palestrantes de diversas áreas de dados, quer ver a programação?
