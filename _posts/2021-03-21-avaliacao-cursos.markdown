@@ -15,4 +15,4 @@ Você pode avaliar quantos cursos quiser. Abaixo temos as respostas consolidadas
 Compartilhem e vamos crescer essa iniciativa =)
 
 
-<iframe style="width: 1350px; height: 473px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjE-wnZtSd5kXJ5LtnDcwIgeRypoFn_E0cMRK0LTicHwnT7q6NLlAUlp7GMN9qCn6gCMxJTTHE1fi8/pubhtml?gid=273440233&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width: 1000px; height: 473px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjE-wnZtSd5kXJ5LtnDcwIgeRypoFn_E0cMRK0LTicHwnT7q6NLlAUlp7GMN9qCn6gCMxJTTHE1fi8/pubhtml?gid=273440233&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
