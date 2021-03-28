@@ -12,7 +12,7 @@ Fruto do feedback de nossa comunidade, estaremos realizando um encontro a cada m
 
 E nesse primeiro evento, que ocorreu dia 23/03/2021 às 19h30, recebemos a Vivi Mota para conversar conosco sobre Viés de Dados.
 
-![Post Mini Live](https://github.com/mulheres-em-ia/mulheres-em-ia.github.io/blob/main/img/Mini%20Lives%20-%20Instagram.png)
+![Post Mini Live](https://raw.githubusercontent.com/mulheres-em-ia/mulheres-em-ia.github.io/main/img/Mini%20Lives%20-%20Instagram.png)
 
 Você pode acompanhar como foi o evento em nosso canal no YouTube: [Mulheres em IA](https://youtu.be/k_fOVk-o4Iw)
 
