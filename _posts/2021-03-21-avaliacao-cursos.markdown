@@ -15,6 +15,9 @@ escolha de outras pessoas que estão procurando formação na área de dados.
 Para isso, criamos [este Formulário de Avaliação](https://airtable.com/shrB9DXP505z28qAD) no qual que você pode avaliar 
 os cursos que já fez (você pode avaliar quantos cursos quiser!).
 
+Também fizemos um vídeo explicando melhor a iniciativa, o formulário e um tutorial para ensinar a mexer no airTable, que é a ferramenta que utilizamos, confira:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eSLv9oAxxgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Abaixo, temos as avaliações feitas até o momento. Você pode mudar a visualização se não quiser ver as informações
 consolidadas, filtrar e ordenar como bem entender (faremos um tutorial em breve para ajudar quem tiver alguma dúvida 
 sobre isso):
