@@ -19,18 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Mulheres em IA
-email: test@example.com
+email: mulheresemia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Acompanhe todas as referências dos nossos eventos e como foram os eventos passados aqui
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
+twitter_username: mulheres_em_ia
+github_username: mulheres-em-ia
 facebook_username: 
-instagram_username:  
-linkedin_username:
+instagram_username: mulheres.em.ia  
+linkedin_username: mulheres-em-ia
 
 # Build settings
 theme: jekyll-theme-clean-blog
