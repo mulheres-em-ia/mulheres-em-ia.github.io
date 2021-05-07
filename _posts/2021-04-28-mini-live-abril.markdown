@@ -12,7 +12,7 @@ Trazemos mais uma mini live agora no mês no Abril! Tiramos dúvidas e entramos 
 
 E nesse evento, que ocorreu dia 22/04/2021 às 19h30, recebemos a Priscilla K. Wagner para conversar conosco sobre profissões de dados.
 
-<img src="https://raw.githubusercontent.com/mulheres-em-ia/mulheres-em-ia.github.io/main/img/Mini%20Lives%20-%20Instagram.png" alt="Post Mini Live" width="400"/>
+<img src="https://github.com/mulheres-em-ia/mulheres-em-ia.github.io/blob/main/img/mini_live_abr_21.jpg" alt="Post Mini Live" width="400"/>
 
 Você pode acompanhar como foi o evento em nosso canal no YouTube: [Mulheres em IA](https://www.youtube.com/watch?v=EhrYP0l-RFE) (LINK!)
 
