@@ -12,9 +12,9 @@ Trazemos mais uma mini live agora no mês no Abril! Tiramos dúvidas e entramos 
 
 E nesse evento, que ocorreu dia 22/04/2021 às 19h30, recebemos a Priscilla K. Wagner para conversar conosco sobre profissões de dados.
 
-<img src="https://github.com/mulheres-em-ia/mulheres-em-ia.github.io/blob/main/img/mini_live_abr_21.jpg" alt="Post Mini Live" width="400"/>
+<img src="https://github.com/mulheres-em-ia/mulheres-em-ia.github.io/blob/a686c13704fa04193fc518977fddc07bb07a6fc2/img/mini_live_abr_21.jpg" alt="Post Mini Live" width="400"/>
 
-Você pode acompanhar como foi o evento em nosso canal no YouTube: [Mulheres em IA](https://www.youtube.com/watch?v=EhrYP0l-RFE) (LINK!)
+Você pode acompanhar como foi o evento em nosso canal no YouTube: [Mulheres em IA](https://www.youtube.com/watch?v=EhrYP0l-RFE)(LINK!)
 
 Pra quem ainda não conhece, a Priscilla é M.Sc. em Bioinformática pela USP-SP. Em seu projeto de mestrado trabalhou com a identificação da origem de genes exclusivos em bactérias do gênero Xanthomonas, que atacam plantações causando prejuízos ao setor de agricultura. Trabalhou como especialista na área de dados na BLU365 por 2 anos, desenvolvendo e gerenciando arquiteturas de dados na nuvem, bem como modelos de classificação e segmentação de clientes para plataforma digital de renegociação. Trabalha na NeuralMed como Especialista em Ciência de Dados, atuando em processamento de imagens usando deep learning.
 
