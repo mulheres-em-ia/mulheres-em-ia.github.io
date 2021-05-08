@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini Live de Abril - Carreira na área de dados: DA, DE, DS e outras letrinhas"
+title: "Mini Live de Abril - Carreira na área de dados"
 author: Bárbara Barbosa
 subtitle: "Todo mês um encontro para trocarmos experiências e conversar com Mulheres incríveis na área de dados e IA. Vem com a gente!"
 date: 2021-04-28 13:00:00 -0300
