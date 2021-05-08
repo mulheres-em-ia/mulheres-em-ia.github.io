@@ -14,7 +14,9 @@ E nesse primeiro evento, que ocorreu dia 23/03/2021 às 19h30, recebemos a Vivi 
 
 <img src="https://raw.githubusercontent.com/mulheres-em-ia/mulheres-em-ia.github.io/main/img/Mini%20Lives%20-%20Instagram.png" alt="Post Mini Live" width="400"/>
 
-Você pode acompanhar como foi o evento em nosso canal no YouTube: [Mulheres em IA](https://youtu.be/k_fOVk-o4Iw) (LINK!)
+Você pode acompanhar como foi o evento em nosso canal no YouTube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_fOVk-o4Iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pra quem ainda não conhece, Vivi e Mila são criadoras do canal Peixe Babel no YouTube, que desde 2014 populariza o conhecimento tecnológico e traz visibilidade à diversidade de profissionais da área.
 Mila é Baiana, Doutoranda em Ciência da Computação na UFMG, instrutora do curso de extensão Hands-on Deep Learning da UFMG, além de instrutora na plataforma Alura de cursos online.
