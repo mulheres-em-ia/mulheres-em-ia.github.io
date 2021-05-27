@@ -3,7 +3,7 @@ layout: post
 title: "Mini Live de Maio - Carreira em dados: Empresas e candidatos, como fazer um bom match?"
 author: Carol Oliveira
 subtitle: "Todo mês um encontro para trocarmos experiências e conversar com Mulheres incríveis na área de dados e IA. Vem com a gente!"
-date: 2021-05-26 13:00:00 -0300
+date: 2021-05-26 22:40:00 -0300
 ---
 
 Fruto do feedback de nossa comunidade, estaremos realizando um encontro a cada mês para trocarmos experiências e conversar com Mulheres incríveis na área de dados e IA.
