@@ -16,7 +16,7 @@ E nesse evento, que ocorreu dia 25/04/2021 às 19h30, recebemos a Elissa Suzuki 
 
 Você pode acompanhar como foi o evento em nosso canal no YouTube: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eReiXfDjEcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eReiXfDjEcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pra quem ainda não conhece, a Elissa Suzuki ajuda pessoas e empresas a tomarem melhores decisões baseadas em dados, conectando o processo criativo focado em pessoas do Design com a precisão do mundo dos dados. Já teve oportunidade de realizar estas conexões pelo Santander, Bayer e agora é Data & Analytics Lead no Mercado Livre.
 
