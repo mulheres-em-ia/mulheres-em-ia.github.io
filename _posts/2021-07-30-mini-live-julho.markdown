@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini Live - Julho - Carreira em Dados: como é participar de um projeto do zero"
+title: "Mini Live de Julho - Carreira em Dados: como é participar de um projeto do zero"
 author: Iris Rangel
 subtitle: "Todo mês um encontro para trocarmos experiências e conversar com Mulheres incríveis na área de dados e IA. Vem com a gente!"
 date: 2021-07-30 15:00:00 -0300
