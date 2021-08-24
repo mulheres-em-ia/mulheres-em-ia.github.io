@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Mini Live - Junho] Porque Ciência de Dados não é só IA"
+title: "Mini Live de Junho - Porque Ciência de Dados não é só IA"
 author: Iris Rangel
 subtitle: "Todo mês um encontro para trocarmos experiências e conversar com Mulheres incríveis na área de dados e IA. Vem com a gente!"
 date: 2021-06-29 15:00:00 -0300
