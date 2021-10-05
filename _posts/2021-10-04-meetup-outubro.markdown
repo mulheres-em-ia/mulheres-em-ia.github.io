@@ -17,4 +17,4 @@ Oferecem soluções de negócios, estratégia, transformação digital, desenvol
 Para saber mais, acesse https://www.everis.com/brazil/pt-br/home-br e https://www.everis.com/brazil/pt-br/careers-brazil 
 
 Aguardamos por vocês no dia 14 de Outubro às 19h30. 
-https://www.youtube.com/watch?v=8pVgn18X6kA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8pVgn18X6kA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
