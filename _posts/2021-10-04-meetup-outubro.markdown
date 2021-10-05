@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meetup de Outubro - Avaliando modelos de detecção de objetos com o TIDE"
+title: "Meetup com a everis - Avaliando modelos de detecção de objetos com o TIDE"
 author: Iris Rangel
 subtitle: "Meetup em parceria com a everis"
 date: 2021-10-04 15:00:00 -0300
