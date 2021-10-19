@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Segundo Evento Mulheres em IA - 2021"
+author: Iris Rangel
+subtitle: "Save the Date - 08 e 09 de Dezembro"
+date: 2021-10-18 19:00:00 -0300
+---
+
+Estamos nos preparativos do Segundo evento Mulheres em IA (MIA) que será nos dias 08 e 09 de Dezembro de 2021. Anota aí na agenda =D
+
+<img src="https://github.com/mulheres-em-ia/mulheres-em-ia.github.io/blob/d392ee8af2270b4c373ef55cc1c99f4f7f6b32d2/img/Posts%20Twitter%20-%20MIA%20dez2021%20(1).png" alt="Save the Date" width="400"/>
+
+O Call 4 Speakers está aberto, até o dia 15 de Novembro. Tem algum assunto na área de dados que gostaria de compartilhar com a comunidade? Então, submeta sua ideia de palestra no formulário: http://bit.ly/c4s_mia2021 
+
+<img src="https://github.com/mulheres-em-ia/mulheres-em-ia.github.io/blob/d392ee8af2270b4c373ef55cc1c99f4f7f6b32d2/img/Posts%20Twitter%20-%20MIA%20dez2021%20(2).png" alt="Call 4 Speakers" width="400"/>
+
+Em breve abriremos as incrições para os participantes.
+
+Venham conosco fazer um evento incrível!!!
+
