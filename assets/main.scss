@@ -142,15 +142,18 @@ footer .copyright { font-size: 14px; margin-bottom: 0; text-align: center; }
 			margin-bottom: 25px;
 
 			&-name {
-			    line-height: 1;
+			    line-height: 1.3;
 			    margin: 20px 0px 15px 0	;
 			    font-weight: bold;
+				font-size: 15px;
+				margin-bottom: 1px;
 			}
 
 			&-description {
-			    line-height: 1.3;
+			    line-height: 1.2;
 			    margin: 0;
 			    max-width: 210px;
+				margin-top: 1px;
 			}
 
 			&-info {
@@ -162,8 +165,10 @@ footer .copyright { font-size: 14px; margin-bottom: 0; text-align: center; }
 			&-image {
 				float: left;
 				border-radius: 50%;
+				border: 2px solid #ae1645;
 				width: 120px;
 				height: 120px;
+				object-fit: cover;
 			}	
 		}
 	}
@@ -173,3 +178,11 @@ footer .copyright { font-size: 14px; margin-bottom: 0; text-align: center; }
     	margin: 0 0 70px;
 	}
 }
+
+footer .list-inline-item a {
+    margin: 0;
+    padding: 0;
+    color: #ae1645;
+	accent-color:#ae1645 ; 
+}
+
