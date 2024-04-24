@@ -33,7 +33,7 @@ instagram_username: mulheres.em.ia
 linkedin_username: mulheres-em-ia
 
 # Build settings
-theme: jekyll-theme-clean-blog
+remote_theme: jekyll-theme-clean-blog
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
