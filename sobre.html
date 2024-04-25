@@ -4,7 +4,7 @@ title: Quem somos
 background: '/img/pink_background.png'
 women: 
  - name: Vivian Mayumi Yamassaki
-   image: vivian.jpg
+   image: vivian.png
    education: Mestra em Sistemas de Informação pela USP
    position: Cientista de Dados na Creditas
  - name: Priscilla Koch Wagner
@@ -27,7 +27,7 @@ women:
    image: barbara.jpg
    education: Mestra em sistemas de informação pela USP.
    position: Data Scientist Manager na Creditas
-- name: Carolina Silva
+ - name: Carolina Silva
    image: carol.png
    education: Mestra em processamento e análise de sinais e graduada em engenharia elétrica pela PUC-MG
    position: Cientista de Dados na NeuralMed
@@ -49,7 +49,7 @@ women:
 
 <div class="row">
 	{% for woman in page.women %}
-		<div class="mia-about-women col-lg-6 col-mid-10">
+		<div class="mia-about-women col-lg-6.5 col-mid-10">
 			<img class="mia-about-women-image" src="/img/women/{{ woman.image }}" />
 			<div class="mia-about-women-info">
 				<p class="mia-about-women-name">{{ woman.name }}</p>
