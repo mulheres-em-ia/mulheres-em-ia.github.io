@@ -39,16 +39,24 @@ women:
 ---
 
 
-<div class="row">
-	<div class="col-lg-12 col-md-10 col-sm-10">
+<div style="display: flex; justify-content: center;" class="row">
+	<div  align="justify" class="col-lg-12 col-md-10 col-sm-10">
 		<p><b>Nossa Missão</b> é desenvolver e fomentar uma comunidade global que empodere mulheres através da troca de conhecimentos em IA, e trabalhos de mentoria. Propiciar um lugar seguro, cujos três pilares são: diversidade, equidade e inclusão. Através de nossos eventos e programas, promovemos as habilidades necessárias para conquistas profissionais e damos suporte a nova geração de mulheres em IA.</p>
 
-		<p>Reunimos as embaixadoreas dos Women in Data Science (WiDS) RJ e SP para criar o MIA, cujo intuito é conseguir realizar mais eventos empoderando mulheres em IA através da troca de conhecimentos, dar suporte e espalhar conteúdos muito além da conferência anual do WiDS.</p>
-	</div>
+		<p>Reunimos as embaixadoras dos Women in Data Science (WiDS) RJ e SP para criar o MIA, cujo intuito é conseguir realizar mais eventos empoderando mulheres em IA através da troca de conhecimentos, dar suporte e espalhar conteúdos muito além da conferência anual do WiDS.
+    Temos a honra de contar com o apoio das nossas parceiras: Alura e Programaria.</p>
+  </div>
+    <img style="width: 60%; height: 52%; text-align: center;" src="/img/parcerias.png"/>
+    <hr style="border: 0.5px solid #D43468; width: 90%; margin: 20px auto;">
+
 </div>
 
 <div class="row">
-	{% for woman in page.women %}
+  <p> </p>
+</div>
+
+<div class="row">
+  {% for woman in page.women %}
 		<div class="mia-about-women col-lg-6 col-mid-12">
 			<img class="mia-about-women-image" src="/img/women/{{ woman.image }}" />
 			<div class="mia-about-women-info">
